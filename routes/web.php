@@ -77,8 +77,6 @@ Route::middleware(['auth','role:Préposé aux clients d’affaire']) -> controll
     // creer d'autres routes
 
 
-
-
 });
 
 
